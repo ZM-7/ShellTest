@@ -36,12 +36,12 @@ By working on this project, you will:
 ### Prerequisites
 - A Linux-like terminal 
 - GCC
+- Make build tool
 
 ### Installation
-1. Clone this repository:
+1. Compile the shell:
    ```bash
-   git clone https://github.com/ZM-7/ShellTest.git
-   cd custom-shell
+   make
    ```
 2. Compile the code:
    ```bash
